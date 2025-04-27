@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+dist/
+.vscode/
+.json
+
+# Golang
+bin/
+*.exe
+
+# OS
+.DS_Store
+
+# Env files
+.env
